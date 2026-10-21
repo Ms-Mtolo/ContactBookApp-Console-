@@ -1,0 +1,15 @@
+C:\Users\DOD\source\repos\ContactBookApp\bin\Debug\net8.0\ContactBookApp.exe
+C:\Users\DOD\source\repos\ContactBookApp\bin\Debug\net8.0\ContactBookApp.deps.json
+C:\Users\DOD\source\repos\ContactBookApp\bin\Debug\net8.0\ContactBookApp.runtimeconfig.json
+C:\Users\DOD\source\repos\ContactBookApp\bin\Debug\net8.0\ContactBookApp.dll
+C:\Users\DOD\source\repos\ContactBookApp\bin\Debug\net8.0\ContactBookApp.pdb
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactBookApp.AssemblyInfoInputs.cache
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactBookApp.AssemblyInfo.cs
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactBookApp.csproj.CoreCompileInputs.cache
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactBookApp.dll
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\refint\ContactBookApp.dll
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactBookApp.pdb
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactBookApp.genruntimeconfig.cache
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ref\ContactBookApp.dll
+C:\Users\DOD\source\repos\ContactBookApp\obj\Debug\net8.0\ContactB.18BAF9B4.Up2Date
